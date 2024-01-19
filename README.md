@@ -1,5 +1,7 @@
 # Multi-UAV Machine Learning Project
 
+![UAV GIF](https://media.giphy.com/media/1k0YYUlIOYK2QA6HVK/giphy.gif)
+
 ## Overview
 This repository contains my first machine learning project, which focuses on multi-UAV analysis. It includes two Jupyter notebooks: one for classification and another for regression tasks, with a special focus on handling imbalanced datasets.
 
